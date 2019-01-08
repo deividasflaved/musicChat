@@ -1,0 +1,133 @@
+body{
+  background-color: #310a4b;
+  font-family: 'Carrois Gothic';
+}
+
+.list-group{
+    overflow-y: scroll;
+    height: 262px;
+    background-color: #310a4b;
+}
+
+.chat-bg{
+
+  background-color: #310a4b;
+  border: 1px solid white; 
+  color:white;
+}
+
+.select-bg{
+  background-color: #310a4b;
+  color:white;
+}
+
+.offset-top{
+    padding-top: 10px;
+}
+
+.no-playlist-decoration{
+  color:white;
+}
+
+.no-playlist-decoration:hover{
+  color:pink;
+  text-decoration: none;
+}
+
+.delete-decorations{
+
+}
+
+.delete-decorations:hover{
+  text-decoration: none;
+}
+
+.nav_bg{
+  background-color: rgba(168, 138, 189, 0.1);
+}
+
+.nav-family a{
+  color: white;
+}
+
+.active a{
+  color: grey;
+}
+
+.loginbg{
+  padding-top: 5%;
+  margin: 0 auto;
+  color: white;
+  border-radius: 10px;
+}
+
+.loginbg h1{
+  text-align: center;
+}
+
+.container{
+  background-color: rgba(0, 0, 0, 0.3);
+  padding-bottom: 5%;
+}
+
+.btn-outline-success{
+  color: #84599c;
+  border-color: #84599c;
+}
+
+.btn:hover{
+  background-color: #84599c;
+  border-color: #84599c;
+}
+
+.container-max{
+  padding-top: 2%;
+  background-color: #310a4b;
+}
+
+.channel-bg{
+  background-color: white;
+}
+
+.grid{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.no-decoration{
+  color: white;
+}
+
+.no-decoration:hover{
+  color:black;
+  text-decoration: none;
+}
+
+.grid-lower{
+  min-height: 250px;
+  max-height: 250px;
+  min-width: 286px;
+}
+.navbar-toggler-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.button-height{
+  height: 38px;
+}
+
+.center-content{
+  display:table;
+  margin:0 auto;
+  color: white;
+}
+
+.center-content ul li a{
+  color: white;
+}
+
+.player{
+  margin-top: 40px;
+  margin-left: 50px;
+}
